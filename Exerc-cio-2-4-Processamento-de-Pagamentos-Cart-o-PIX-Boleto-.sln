@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pagamentos", "Pagamentos", "{EB5FEC97-97ED-1628-DE65-403CE102E702}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pagamentos", "Pagamentos\src\Pagamentos.csproj", "{18B23025-15FC-5C5E-CAEF-594E8B9C2067}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18B23025-15FC-5C5E-CAEF-594E8B9C2067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B23025-15FC-5C5E-CAEF-594E8B9C2067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B23025-15FC-5C5E-CAEF-594E8B9C2067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B23025-15FC-5C5E-CAEF-594E8B9C2067}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{18B23025-15FC-5C5E-CAEF-594E8B9C2067} = {EB5FEC97-97ED-1628-DE65-403CE102E702}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {171686C5-0958-4A91-BE59-6CA1F5B050E2}
+	EndGlobalSection
+EndGlobal
